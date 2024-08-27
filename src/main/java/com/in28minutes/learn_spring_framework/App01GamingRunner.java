@@ -1,10 +1,9 @@
 package com.in28minutes.learn_spring_framework;
 
 import com.in28minutes.learn_spring_framework.game.GameRunner;
-import com.in28minutes.learn_spring_framework.game.MarioGame;
 import com.in28minutes.learn_spring_framework.game.SuperContreaGame;
 
-public class AppGamingRunner {
+public class App01GamingRunner {
 
     public static void main(String[] args){
 
