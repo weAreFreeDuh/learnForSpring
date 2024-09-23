@@ -1,4 +1,4 @@
-package com.in28minutes.learn_spring_framework;
+package com.in28minutes.learn_spring_framework.helloworld;
 
 import com.in28minutes.learn_spring_framework.game.GameRunner;
 import com.in28minutes.learn_spring_framework.game.SuperContreaGame;

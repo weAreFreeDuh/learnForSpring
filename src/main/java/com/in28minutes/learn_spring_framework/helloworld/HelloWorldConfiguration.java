@@ -1,6 +1,5 @@
-package com.in28minutes.learn_spring_framework.config;
+package com.in28minutes.learn_spring_framework.helloworld;
 
-import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
