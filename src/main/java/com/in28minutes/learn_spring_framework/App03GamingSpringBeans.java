@@ -26,10 +26,7 @@ class GamingConfiguration {
         context.getBean(GameRunner.class).run();
 
         context.getBean(GamingConsole.class).up();
-
     }
-
-
 }
 
 public class App03GamingSpringBeans {
